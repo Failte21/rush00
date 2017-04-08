@@ -57,7 +57,7 @@ INSERT INTO `produit` (`id`, `nom`, `prix`, `image`) VALUES
 (4, 'clementine', 2, './img/clementine.jpg'),
 (5, 'concombre', 1, './img/concombre.jpg'),
 (6, 'betterave', 3, './img/betterave.jpg'),
-(7, 'conserve ananas', 2, './img/conserve_ananas.jpg'),
+(7, 'conserve_ananas', 2, './img/conserve_ananas.jpg'),
 (8, 'maquereau_frais', 6, './img/maquereau_frais.jpg'),
 (9, 'maquereau_conserve', 5, './img/maquereau_conserve.png'),
 (10, 'steak', 4, './img/steak.jpg'),
